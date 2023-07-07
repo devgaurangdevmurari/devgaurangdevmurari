@@ -1,6 +1,7 @@
 ## 💫 About Me:
 🔭 **I’m currently working on:** Various mobile app development projects, leveraging my 8+ years of experience in the field.<br><br>👯 **I’m looking to collaborate on:** Exciting mobile app development projects that challenge my skills and push boundaries.?<br><br>🤝 **I’m looking for help with:** Exploring new technologies and staying up-to-date with the latest trends in mobile app development.<br><br>🌱 **I’m currently learning:** New frameworks and technologies to expand my capabilities as a mobile app developer.<br><br>💬 **Ask me about:** Mobile app architecture, UI/UX design, native and cross-platform development, app monetization strategies, and more.<br><br>⚡ **Fun fact:** Did you know that mobile apps have become an integral part of our lives, with billions of downloads and countless hours spent on them every day?
 
+<img src="https://github.com/devgaurangdevmurari/devgaurangdevmurari/blob/main/hsp-software-taxo.gif" height="300" align="right" alt="Computador" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 🌐 Connect with me 🙋‍♂️:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurangdevmurari/) 
